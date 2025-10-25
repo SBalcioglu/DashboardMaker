@@ -1,7 +1,6 @@
 # Dashboard Application
-<img width="1909" height="917" alt="image" src="https://github.com/user-attachments/assets/31628085-ee0f-4920-8666-507a9888f5a8" />
-
 Data visualization dashboard maker
+<img width="1909" height="917" alt="image" src="https://github.com/user-attachments/assets/31628085-ee0f-4920-8666-507a9888f5a8" />
 ## Features
 
 - Import CSV, Excel, XML, and JSON files
